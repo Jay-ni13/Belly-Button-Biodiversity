@@ -12,7 +12,7 @@ After reading about the purpose of the dashboard and its associated study, a [Be
 
 The first panel displays the demographic information associated with the selected test subject ID, the bar chart display's the top 10 bacterial species (OTUs) found in the test subject's sample, and the gauge shows the average number of times per week the selected individual washes their navel.
 
-<img src="https://github.com/Jay-ni13/Belly-Button-Biodiversity/blob/main/static/images/bar_and_gauge_charts.png">
+<img src="https://github.com/Jay-ni13/Belly-Button-Biodiversity/blob/main/static/images/bar_and_gauge_charts.png" width=95%>
 
 The bubble chart shows all the different kinds of bacteria detected--and their concentration--in an individual's sample.
 
@@ -23,4 +23,4 @@ Though the webpage is made mobile-responsive through the inclusion of
 ```<meta http-equiv="X-UA-Compatible" content="ie=edge">```
 in the head of the index.html file, the layout of the page could be further edited to improve readability on cell/tablet screen.
 
-The webpage should also be ammended to include a panel on any bacteria species that show promising results for sythetic protein flavor, with an adjacent article section that contains updates on how the study is progressing with those bacteria strains.
+The webpage should also be ammended to include a panel on any bacteria species that show promising results for sythetic protein flavor, with an adjacent article section that contains updates on how Improbable Beef's study is progressing with those bacteria strains.
